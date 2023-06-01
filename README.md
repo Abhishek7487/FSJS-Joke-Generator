@@ -16,7 +16,7 @@
 
 ## 🪧 Demo
 
-![Joke Generator]([https://www.linkpicture.com/q/Screenshot-2023-02-08-105009.png](https://www.linkpicture.com/q/Screenshot-2023-06-01-173913.png))
+![Joke Generator](https://www.linkpicture.com/q/Screenshot-2023-06-01-173913.png)
 
 
 
